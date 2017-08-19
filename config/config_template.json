@@ -4,7 +4,7 @@
             "connection" : 
                 "host='<hostname>' user='<username>' dbname='<dbname>' password='<password>'",
             "schemaRawData" : "raw_data",
-            "schemaWrok"    : "the_bolus"
+            "schemaWrok"    : "bolus"
         }
     },
     "logging":{
