@@ -1,0 +1,21 @@
+admission_type,insurance,count
+ELECTIVE,Government,143
+ELECTIVE,Self Pay,17
+ELECTIVE,Private,3250
+ELECTIVE,Medicaid,413
+ELECTIVE,Medicare,3883
+EMERGENCY,Self Pay,550
+EMERGENCY,Private,12636
+EMERGENCY,Medicaid,4024
+EMERGENCY,Government,1227
+EMERGENCY,Medicare,23634
+NEWBORN,Medicare,1
+NEWBORN,Private,6208
+NEWBORN,Medicaid,1236
+NEWBORN,Government,382
+NEWBORN,Self Pay,36
+URGENT,Government,31
+URGENT,Self Pay,8
+URGENT,Medicare,697
+URGENT,Private,488
+URGENT,Medicaid,112

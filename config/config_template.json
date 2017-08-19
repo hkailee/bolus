@@ -1,0 +1,14 @@
+{
+    "db":{
+        "mimic_iii":{
+            "connection" : 
+                "host='<hostname>' user='<username>' dbname='<dbname>' password='<password>'",
+            "schemaRawData" : "raw_data",
+            "schemaWrok"    : "the_bolus"
+        }
+    },
+    "logging":{
+        "logFolder":"logs",
+        "logBase":"theBolus"
+    }
+}
