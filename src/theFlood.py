@@ -41,7 +41,7 @@ def simpleQuery(logger):
             from 
                 raw_data.callout
             where
-                callout_service == 'CCU'
+                callout_service = 'CCU'
             limit 100
         '''
         cur.execute(query)
@@ -77,9 +77,6 @@ def main(logger):
         except Exception as e: 
             logger.error('Unable to do exampleAnalysis.someStuff: \n{}'.format(str(e)))
         
-        
- 
-
     return
 
 if __name__ == '__main__':
