@@ -1,0 +1,9 @@
+\i cohort.sql
+\i hourly-cohort.sql
+\i bg.sql
+\i gcs.sql
+\i lab.sql
+\i static_data.sql
+\i uo.sql
+\i vital.sql
+\i data.sql
